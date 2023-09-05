@@ -4,7 +4,8 @@
 ## Description
 1,507 People 102,476 Images Multi-pose and Multi-expression Face Data. The data includes 1,507 Asians (762 males, 745 females). For each subject, 62 multi-pose face images and 6 multi-expression face images were collected. The data diversity includes multiple angles, multiple poses and multple light conditions image data from all ages. This data can be used for tasks such as face recognition and facial expression recognition.
 
-For more details, please refer to the link: https://bit.ly/3Sh4K3e
+For more details, please refer to the link: https://www.nexdata.ai/datasets/9?source=Github
+
 
 ## Data Size
 1,507 people, 62 multi-pose face images and 6 multi-expression face images per person
